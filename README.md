@@ -15,3 +15,10 @@ Un Ejemplo de imagen se espera algo similar a esto.
 Fernando Ruiz Velasco -- A01229632
 Created With: UNITY
 
+## Libraries Used
+
+-- Container Boats by Kobra Game Studios 
+-- Simple Buoy by Cross Walk Studios
+-- Boats Pack by Lukar Bobor
+
+All Packages where obtained on Unity Assets Store
