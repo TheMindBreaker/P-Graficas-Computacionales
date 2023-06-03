@@ -9,7 +9,7 @@ Library: C:\Users\ferna\Github\P-Graficas-Computacionales\Graficas_Computacioale
 --linker-options=PdbAltPath="Graficas_Computacioales_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\ferna\Github\P-Graficas-Computacionales\Graficas_Computacioales\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/2022.2.19f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\ferna\Github\P-Graficas-Computacionales\Graficas_Computacioales\Library\Burst
 --output=C:\Users\ferna\Github\P-Graficas-Computacionales\Graficas_Computacioales\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -35,7 +35,7 @@ Library: C:\Users\ferna\Github\P-Graficas-Computacionales\Graficas_Computacioale
 --linker-options=PdbAltPath="Graficas_Computacioales_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\ferna\Github\P-Graficas-Computacionales\Graficas_Computacioales\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/2022.2.19f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\ferna\Github\P-Graficas-Computacionales\Graficas_Computacioales\Library\Burst
 --output=C:\Users\ferna\Github\P-Graficas-Computacionales\Graficas_Computacioales\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
